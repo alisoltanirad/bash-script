@@ -1,5 +1,5 @@
 """
-Usage: bash shortcut.sh dirs_path [target]
+Usage: bash shortcut.sh 'dirs_path' ['target']
 
 Args:
   dirs_path: Path of directories.
